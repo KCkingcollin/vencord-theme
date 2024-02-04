@@ -34,7 +34,7 @@
 
   --transition-time: 1s; /* How fast animations added by the theme happen. Default is 0.3 seconds */
 
-  --background-image: url(https://github.com/KCkingcollin/vencord-theme/blob/8fb320115ce2ccf3d611f4892161129e2f50515f/background.jpg); /* To add an image, replace unset with url(https://www.YOUR-URL-HERE.com) */
+  --background-image: url(https://github.com/KCkingcollin/vencord-theme/blob/main/background.jpg?raw=true); /* To add an image, replace unset with url(https://www.YOUR-URL-HERE.com) */
   --background-position: center; /* Positions the background image */
   --background-size: cover; /* Scales the background image */
   --background-blur: 0px; /* Blurs the image which usually helps with readability of text infront of it */
