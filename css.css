@@ -10,17 +10,18 @@
  * @authorId 137259132305539072
  * @invite 6qd3SkP6Ch
 */
+
 @import url("https://mr-miner1.github.io/Better-Badges/BetterBadges(BD).theme.css");
 @import url("https://mwittrien.github.io/BetterDiscordAddons/Themes/SettingsModal/SettingsModal.css");
 @import url("https://NYRI4.github.io/Discolored/main.css");
-@import url('https://commandcrafterhd.github.io/Fallout4TerminalTheme/mainRewrite.css');
-
+@import url('https://B4T3S.github.io/Fallout4TerminalTheme/mainRewrite.css');
 /* ^ This is the main Import ^ DO NOT TOUCH. Without this, the theme won't load!!! */
 
-/*@import url('https://commandcrafterhd.github.io/Fallout4TerminalTheme/css/crtEffect.css');
+/* @import url('https://B4T3S.github.io/Fallout4TerminalTheme/css/crtEffect.css'); */
 /* ^ This is the CRT effect. If you don't like it, remove or uncomment this line! ^ */
 
 /* CUSTOMIZE COLORS IN HERE! */
+
 :root {
   --text-color: rgb(170, 0, 255);
   --rgb-highlight: 170, 0, 255; /* The main highlight color */
@@ -34,7 +35,7 @@
 
   --transition-time: 1s; /* How fast animations added by the theme happen. Default is 0.3 seconds */
 
-  --background-image: url(https://github.com/KCkingcollin/vencord-theme/blob/main/background.jpg?raw=true); /* To add an image, replace unset with url(https://www.YOUR-URL-HERE.com) */
+  --background-image: url('https://github.com/KCkingcollin/vencord-theme/blob/main/background.jpg?raw=true'); /* To add an image, replace unseturl('https://github.com/KCkingcollin/vencord-theme/blob/main/background.jpg?raw=true'); /* To add an image, replace unset with url(https://www.YOUR-URL-HERE.com) */
   --background-position: center; /* Positions the background image */
   --background-size: cover; /* Scales the background image */
   --background-blur: 0px; /* Blurs the image which usually helps with readability of text infront of it */
