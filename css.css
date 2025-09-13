@@ -10,6 +10,7 @@
 /* IMPORT CSS */
 @import url("https://clearvision.github.io/ClearVision-v7/main.css");
 @import url("https://clearvision.github.io/ClearVision-v7/betterdiscord.css");
+@import url('https://fonts.cdnfonts.com/css/opendyslexic');
 /* SETTINGS */
 :root {
   /* ACCENT COLORS */
@@ -46,10 +47,8 @@
   --home-icon: url(https://clearvision.github.io/icons/discord.svg); /* home button icon (link must be HTTPS) [default: url(https://clearvision.github.io/icons/discord.svg)]*/
   --home-size: cover; /* home button icon size (px) [default:cover] */
   /* FONTS */
-  --font-primary: "OpenDyslexicNerdFont", "OpenDyslexicAltNerdFont", "Noto Color Emoji", system-ui, sans-serif;
-  --font-display: "OpenDyslexicNerdFont", system-ui, sans-serif;
-  --font-headline: "OpenDyslexicNerdFont", system-ui, sans-serif;
-  --font-code: "OpenDyslexicMNerdFontMono", ui-monospace, monospace;
+  --main-font: 'OpenDyslexic', "gg sans", "Helvetica Neue", Helvetica, Arial, sans-serif; /* main font for app (font must be installed) [default: gg sans, Helvetica Neue, Helvetica, Arial, sans-serif] */
+  --code-font: 'OpenDyslexicMono', Consolas, "gg mono", "Liberation Mono", Menlo, Courier, monospace; /* font for codeblocks (font must be installed) [default: Consolas, Liberation Mono, Menlo, Courier, monospace] */
   /* CHANNEL COLORS */
   --channel-normal: var(--interactive-normal); /* channel text color [default: var(--interactive-normal)] */
   --channel-muted: var(--interactive-muted); /* muted channel text color [default: var(--interactive-muted)] */
