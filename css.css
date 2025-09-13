@@ -8,9 +8,6 @@
  * @invite dHaSxn3
  */
 /* IMPORT CSS */
-html {
-  zoom: 1.2;
-}
 @import url("https://clearvision.github.io/ClearVision-v7/main.css");
 @import url("https://clearvision.github.io/ClearVision-v7/betterdiscord.css");
 @font-face {
@@ -24,6 +21,9 @@ html {
     font-style: normal;
     font-weight: 400;
     src: local('OpenDyslexicMono'), url('https://raw.githubusercontent.com/KCkingcollin/vencord-theme/main/fonts/OpenDyslexicMono-Regular.woff') format('woff');
+}
+html {
+  zoom: 1.2;
 }
 /* SETTINGS */
 :root {
