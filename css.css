@@ -22,9 +22,6 @@
     font-weight: 400;
     src: local('OpenDyslexicMono'), url('https://raw.githubusercontent.com/KCkingcollin/vencord-theme/main/fonts/OpenDyslexicMono-Regular.woff') format('woff');
 }
-html {
-  zoom: 1.2;
-}
 /* SETTINGS */
 :root {
   /* ACCENT COLORS */
