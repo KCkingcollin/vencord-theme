@@ -14,13 +14,13 @@
     font-family: 'OpenDyslexic';
     font-style: normal;
     font-weight: 400;
-    src: local('OpenDyslexic'), url('https://fonts.cdnfonts.com/s/19808/OpenDyslexic-Regular.woff') format('woff');
+    src: local('OpenDyslexic'), url('https://github.com/KCkingcollin/vencord-theme/raw/refs/heads/main/fonts/OpenDyslexic-Regular.woff') format('woff');
 }
 @font-face {
     font-family: 'OpenDyslexicMono';
     font-style: normal;
     font-weight: 400;
-    src: local('OpenDyslexicMono'), url('https://fonts.cdnfonts.com/s/19808/OpenDyslexicMono-Regular.woff') format('woff');
+    src: local('OpenDyslexicMono'), url('https://github.com/KCkingcollin/vencord-theme/raw/refs/heads/main/fonts/OpenDyslexicMono-Regular.woff') format('woff');
 }
 /* SETTINGS */
 :root {
