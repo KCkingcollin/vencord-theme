@@ -8,6 +8,9 @@
  * @invite dHaSxn3
  */
 /* IMPORT CSS */
+html {
+  zoom: 1.2;
+}
 @import url("https://clearvision.github.io/ClearVision-v7/main.css");
 @import url("https://clearvision.github.io/ClearVision-v7/betterdiscord.css");
 @font-face {
@@ -118,6 +121,3 @@
 }
 
 /* ADD ADDITIONAL CSS BELOW HERE */
-html {
-  zoom: 1.15;
-}
