@@ -10,6 +10,9 @@
 /* IMPORT CSS */
 @import url("https://clearvision.github.io/ClearVision-v7/main.css");
 @import url("https://clearvision.github.io/ClearVision-v7/betterdiscord.css");
+html {
+  zoom: 1.15;
+}
 @font-face {
     font-family: 'OpenDyslexic';
     font-style: normal;
